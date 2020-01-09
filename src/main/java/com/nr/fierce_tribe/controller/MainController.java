@@ -11,7 +11,7 @@ public class MainController {
 
     @RequestMapping("/open")
     public String open(){
-        return "success!";
+        return "success!!!!!!";
     }
 
 }
